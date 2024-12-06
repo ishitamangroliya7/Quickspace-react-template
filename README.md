@@ -1,6 +1,4 @@
 
-![image alt](https://github.com/ishitamangroliya7/Quickspace-react-template/blob/4f45d67d09be533af91b5005c996fdcefa0c800b/Screenshot%20(94).png)
+![image alt](https://github.com/ishitamangroliya7/Quickspace-react-template/blob/3a05d72d81276da9107fe4b267405322bf47d2f7/Screenshot%20(104).png)
 
-![image alt](https://github.com/ishitamangroliya7/Quickspace-react-template/blob/4f45d67d09be533af91b5005c996fdcefa0c800b/Screenshot%20(95).png)
-
-![image alt](https://github.com/ishitamangroliya7/Quickspace-react-template/blob/4f45d67d09be533af91b5005c996fdcefa0c800b/Screenshot%20(96).png)
+![image alt](https://github.com/ishitamangroliya7/Quickspace-react-template/blob/3a05d72d81276da9107fe4b267405322bf47d2f7/Screenshot%20(105).png)
